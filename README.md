@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Mateo Cava
 
-<!--
-**Matecava/Matecava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` js
+const Mateocava = {
+      fullName: "Mateo Agustin Cava",
+      profession: "Full stack web developer 🧑‍💻", 
+      currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
+      spokenLanguages: ["español 🧉🥟", "english ☕💂"],
+      techStack: {
+        code: JavaScript, NextJS
+        tools: {
+          frontEnd: [React, Redux, CSS, StyledComponents],
+          backEnd: [Node, Express, Sequelize, Mongoose],
+          databases: { PostgreSQL, MySQL, MongoDB },
+          deployment: [Vercel, Netifly],
+          versionControl: Git,
+        },
+      },
+      currentlyLearning: [Golang, TypeScript, AWS,],
+      ToDolist: [Python, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
+                 Vue, Mocha, Jest, Docker, Flutter],
+    };
+    
+    ```
+    
+    📫 How to contact me? : < Mateo.agustin.cava@gmail.com >
+    
+    💻 Check Out My Repos ⬇️
