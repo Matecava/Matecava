@@ -7,18 +7,19 @@ const Mateocava = {
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
-        code: JavaScript, NextJS
+        code: JavaScript
         tools: {
           frontEnd: [React, Redux, CSS, StyledComponents],
           backEnd: [Node, Express, Sequelize, Mongoose],
           databases: { PostgreSQL, MySQL, MongoDB },
           deployment: [Vercel, Netifly],
+          mobile: [React Native]
           versionControl: Git,
         },
       },
-      currentlyLearning: [Golang, TypeScript, AWS,],
-      ToDolist: [Python, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
-                 Vue, Mocha, Jest, Docker, Flutter],
+      currentlyLearning: [Flutter],
+      ToDolist: [Python, Firebase, React-Native, Nest, Deno, GraphQL, Angular, 
+                 Vue, Mocha, Jest, Docker],
     };
     
     ```
