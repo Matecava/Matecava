@@ -3,7 +3,7 @@
 ``` js
 const Mateocava = {
       fullName: "Mateo Agustin Cava",
-      profession: "Full stack web developer 🧑‍💻", 
+      profession: "Back-end developer 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
