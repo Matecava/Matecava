@@ -17,9 +17,7 @@ const Mateocava = {
           versionControl: Git,
         },
       },
-      currentlyLearning: [Flutter],
-      ToDolist: [Python, Firebase, React-Native, Nest, Deno, GraphQL, Angular, 
-                 Vue, Mocha, Jest, Docker],
+      currentlyLearning: [Java]
     };
     
     ```
